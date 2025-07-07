@@ -3,6 +3,7 @@
 Facade adalah game 2D turn-based RPG dengan elemen cerita misteri, dikembangkan sebagai proyek UAS untuk mata kuliah 2D Game Programming di Politeknik Negeri Jakarta.
 
 Game ini menempatkan pemain dalam sebagai detektif swasta yang menyelidiki hilangnya seorang anak. Saat ini, pengembangan masih berada pada tahap prototype, dengan fokus pada sistem pertarungan
+
 ---
 
 🧩 Fitur Prototype
