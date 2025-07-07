@@ -8,26 +8,26 @@ Game ini menempatkan pemain dalam sebagai detektif swasta yang menyelidiki hilan
 
 🧩 Fitur Prototype
 
-🔄 Sistem pertarungan turn-based (mode dasar)
-🧩 Cerita misteri: teka-teki, dialog, dan atmosfer yang ambigu
-📖 Level tutorial: memperkenalkan mekanik utama dan latar belakang cerita
+- 🔄 Sistem pertarungan turn-based (mode dasar)
+- 🧩 Cerita misteri: teka-teki, dialog, dan atmosfer yang ambigu
+- 📖 Level tutorial: memperkenalkan mekanik utama dan latar belakang cerita
 
 ---
 
 🛠️ Tools & Teknologi
 
-Game Engine: Unity
-Bahasa Pemrograman: C#
-Version Control: Git & GitHub
-Editor: Visual Studio Code / Unity Editor
+- Game Engine: Unity
+- Bahasa Pemrograman: C#
+- Version Control: Git & GitHub
+- Editor: Visual Studio Code / Unity Editor
 
 ---
 
 📁 Struktur Folder (utama)
 
-Assets/ – Script, prefab, UI, dan sprite
-ProjectSettings/ – Konfigurasi Unity
-.gitignore – File filter (menghindari Library, Temp, dsb)
+- Assets/ – Script, prefab, UI, dan sprite
+- ProjectSettings/ – Konfigurasi Unity
+- .gitignore – File filter (menghindari Library, Temp, dsb)
 
 ---
 
