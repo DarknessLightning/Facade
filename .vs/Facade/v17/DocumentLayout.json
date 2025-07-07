@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Achmad guzali\\Facade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF73DFC3-7B5C-E03D-F97F-0519D968C56F}|Assembly-CSharp.csproj|c:\\users\\achmad guzali\\facade\\assets\\script\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF73DFC3-7B5C-E03D-F97F-0519D968C56F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF73DFC3-7B5C-E03D-F97F-0519D968C56F}|Assembly-CSharp.csproj|c:\\users\\achmad guzali\\facade\\assets\\script\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF73DFC3-7B5C-E03D-F97F-0519D968C56F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF73DFC3-7B5C-E03D-F97F-0519D968C56F}|Assembly-CSharp.csproj|c:\\users\\achmad guzali\\facade\\assets\\script\\triggermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF73DFC3-7B5C-E03D-F97F-0519D968C56F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\triggermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF73DFC3-7B5C-E03D-F97F-0519D968C56F}|Assembly-CSharp.csproj|c:\\users\\achmad guzali\\facade\\assets\\script\\fighteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF73DFC3-7B5C-E03D-F97F-0519D968C56F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\fighteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF73DFC3-7B5C-E03D-F97F-0519D968C56F}|Assembly-CSharp.csproj|c:\\users\\achmad guzali\\facade\\assets\\script\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF73DFC3-7B5C-E03D-F97F-0519D968C56F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF73DFC3-7B5C-E03D-F97F-0519D968C56F}|Assembly-CSharp.csproj|c:\\users\\achmad guzali\\facade\\assets\\script\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF73DFC3-7B5C-E03D-F97F-0519D968C56F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF73DFC3-7B5C-E03D-F97F-0519D968C56F}|Assembly-CSharp.csproj|c:\\users\\achmad guzali\\facade\\assets\\script\\attackbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF73DFC3-7B5C-E03D-F97F-0519D968C56F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\attackbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF73DFC3-7B5C-E03D-F97F-0519D968C56F}|Assembly-CSharp.csproj|c:\\users\\achmad guzali\\facade\\assets\\script\\makebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF73DFC3-7B5C-E03D-F97F-0519D968C56F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\makebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF73DFC3-7B5C-E03D-F97F-0519D968C56F}|Assembly-CSharp.csproj|c:\\users\\achmad guzali\\facade\\assets\\script\\enemyaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF73DFC3-7B5C-E03D-F97F-0519D968C56F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemyaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF73DFC3-7B5C-E03D-F97F-0519D968C56F}|Assembly-CSharp.csproj|c:\\users\\achmad guzali\\facade\\assets\\script\\carouselcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF73DFC3-7B5C-E03D-F97F-0519D968C56F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\carouselcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF73DFC3-7B5C-E03D-F97F-0519D968C56F}|Assembly-CSharp.csproj|c:\\users\\achmad guzali\\facade\\assets\\script\\enemyanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF73DFC3-7B5C-E03D-F97F-0519D968C56F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemyanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF73DFC3-7B5C-E03D-F97F-0519D968C56F}|Assembly-CSharp.csproj|c:\\users\\achmad guzali\\facade\\assets\\script\\hpbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF73DFC3-7B5C-E03D-F97F-0519D968C56F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\hpbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemyAnimator.cs",
+              "DocumentMoniker": "C:\\Users\\Achmad guzali\\Facade\\Assets\\Script\\EnemyAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemyAnimator.cs",
+              "ToolTip": "C:\\Users\\Achmad guzali\\Facade\\Assets\\Script\\EnemyAnimator.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemyAnimator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:33:55.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AttackButton.cs",
+              "DocumentMoniker": "C:\\Users\\Achmad guzali\\Facade\\Assets\\Script\\AttackButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AttackButton.cs",
+              "ToolTip": "C:\\Users\\Achmad guzali\\Facade\\Assets\\Script\\AttackButton.cs",
+              "RelativeToolTip": "Assets\\Script\\AttackButton.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:33:54.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HPBar.cs",
+              "DocumentMoniker": "C:\\Users\\Achmad guzali\\Facade\\Assets\\Script\\HPBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\HPBar.cs",
+              "ToolTip": "C:\\Users\\Achmad guzali\\Facade\\Assets\\Script\\HPBar.cs",
+              "RelativeToolTip": "Assets\\Script\\HPBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:33:54.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarouselController.cs",
+              "DocumentMoniker": "C:\\Users\\Achmad guzali\\Facade\\Assets\\Script\\CarouselController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CarouselController.cs",
+              "ToolTip": "C:\\Users\\Achmad guzali\\Facade\\Assets\\Script\\CarouselController.cs",
+              "RelativeToolTip": "Assets\\Script\\CarouselController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:33:53.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyAction.cs",
+              "DocumentMoniker": "C:\\Users\\Achmad guzali\\Facade\\Assets\\Script\\EnemyAction.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemyAction.cs",
+              "ToolTip": "C:\\Users\\Achmad guzali\\Facade\\Assets\\Script\\EnemyAction.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemyAction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:33:53.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Achmad guzali\\Facade\\Assets\\Script\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Achmad guzali\\Facade\\Assets\\Script\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Script\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:33:52.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerControl.cs",
+              "DocumentMoniker": "C:\\Users\\Achmad guzali\\Facade\\Assets\\Script\\PlayerControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerControl.cs",
+              "ToolTip": "C:\\Users\\Achmad guzali\\Facade\\Assets\\Script\\PlayerControl.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerControl.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:33:52.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MakeButton.cs",
+              "DocumentMoniker": "C:\\Users\\Achmad guzali\\Facade\\Assets\\Script\\MakeButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MakeButton.cs",
+              "ToolTip": "C:\\Users\\Achmad guzali\\Facade\\Assets\\Script\\MakeButton.cs",
+              "RelativeToolTip": "Assets\\Script\\MakeButton.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:33:51.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FighterAction.cs",
+              "DocumentMoniker": "C:\\Users\\Achmad guzali\\Facade\\Assets\\Script\\FighterAction.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\FighterAction.cs",
+              "ToolTip": "C:\\Users\\Achmad guzali\\Facade\\Assets\\Script\\FighterAction.cs",
+              "RelativeToolTip": "Assets\\Script\\FighterAction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:33:51.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerAnimator.cs",
+              "DocumentMoniker": "C:\\Users\\Achmad guzali\\Facade\\Assets\\Script\\PlayerAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerAnimator.cs",
+              "ToolTip": "C:\\Users\\Achmad guzali\\Facade\\Assets\\Script\\PlayerAnimator.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerAnimator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:33:50.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TriggerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Achmad guzali\\Facade\\Assets\\Script\\TriggerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TriggerMovement.cs",
+              "ToolTip": "C:\\Users\\Achmad guzali\\Facade\\Assets\\Script\\TriggerMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\TriggerMovement.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:33:23.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HUD.cs",
+              "DocumentMoniker": "C:\\Users\\Achmad guzali\\Facade\\Assets\\Script\\HUD.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\HUD.cs",
+              "ToolTip": "C:\\Users\\Achmad guzali\\Facade\\Assets\\Script\\HUD.cs",
+              "RelativeToolTip": "Assets\\Script\\HUD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:32:58.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
